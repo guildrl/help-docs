@@ -26,6 +26,20 @@ The email entered is where the notification that the report is ready to download
 
 ![](<../.gitbook/assets/CleanShot 2021-01-21 at 10.03.02@2x.png>)
 
+### Use Applicant
+
+If you have an applicant that has submitted an online application, click on the add from applicants dropdown and search/select the applicant to enter. Guarantors for applicants can also be seen where applicable.
+
+![](<../.gitbook/assets/CleanShot 2022-01-31 at 22.25.55@2x.png>)
+
+All the details listed below (tenancy details, names, addresses etc.) will be autofilled.
+
+If you don't see the applicant, it probably means they haven't submitted the form yet. Please view the applicant, which will show if they have or not.
+
+{% hint style="warning" %}
+Please check the details which have been auto-filled carefully as the system can make mistakes. Please report any issues.
+{% endhint %}
+
 ### Proposed Tenancy Details
 
 Start typing the **proposed tenancy address** in the box provided or enter a postcode. As you type, you will be able to choose from the list the full address.
