@@ -30,13 +30,7 @@ As a general rule, any person 18 years or older occupying the property as their 
 The exception would be if there is a family occupying with their children. In this case, you would ordinarily only name the parents as tenants and the children (even if 18 years or older) could be named as permitted occupiers if you wish.
 {% endhint %}
 
-## Business type of person signing
 
-Is the person or persons who will be signing the agreement signing as an individual or on behalf of a limited company?
-
-The only purpose of this dropdown is to display a message that if signing on behalf of a company, there should be at least two signatories to ensure compliance with the Companies Act 2006.
-
-If you are an individual, nothing will appear and one signatory is sufficient if you wish.
 
 ### How many people signing for or on behalf of landlord(s)?
 
@@ -98,7 +92,7 @@ With this final dropdown selection, you can either save all the data for later o
 
 ### Save for later
 
-Save for later will do as it sounds on clicking submit. All the data inserted will be saved and the agreement will be visible in the list of tenancies.
+Save for later will do as it sounds on clicking submit. All the data inserted will be saved, and the agreement will be visible in the list of tenancies.
 
 When ready to continue, simply select ”edit” from the actions button in the list of tenancies and [edit the agreement](../edit-an-agreement.md).
 
@@ -106,7 +100,7 @@ When ready to continue, simply select ”edit” from the actions button in the 
 
 Selecting this option will build the agreement upon clicking submit.
 
-After clicking submit, you will be returned to the list of tenancies and ”in progress” will be displayed next to the agreement just created. Once this changes to ”completed”, you will be able to download the agreement and an email will be sent to the notifications email completed earlier to say it’s ready for download.
+After clicking submit, you will be returned to the list of tenancies and ”in progress” will be displayed next to the agreement just created. Once this changes to ” completed”, you will be able to download the agreement and an email will be sent to the notifications email completed earlier to say it’s ready for download.
 
 The agreement ordinarily takes around 30 - 40 seconds to be completed but can take longer. If there is some problem or delay in the building of the agreement, an email will be sent to the notifications email entered earlier.
 
