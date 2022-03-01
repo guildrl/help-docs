@@ -71,6 +71,6 @@
 * [Email Didn't Arrive](troubleshooting/email-didnt-arrive.md)
 * [Login Troubles](troubleshooting/login-troubles.md)
 * [Agreement Failed (or Hangs In Progress)](troubleshooting/agreement-failed.md)
-* [Wrong Email Address in Digital Signing. How Do I Resend?](troubleshooting/wrong-email-address-in-digital-signing.-how-do-i-resend.md)
+* [Wrong Email Address in Digital Signing.](troubleshooting/wrong-email-address-in-digital-signing.-how-do-i-resend.md)
 * [Submit Button Won't Work](troubleshooting/submit-button-wont-work.md)
 * [Agreement Not Showing in Tenancies List](troubleshooting/agreement-not-showing-in-tenancies-list.md)
