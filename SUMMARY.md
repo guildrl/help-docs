@@ -66,6 +66,7 @@
 
 ## Troubleshooting
 
+* [When Trying to Build, Not Seeing the Save and Build Dropdown](troubleshooting/when-trying-to-build-not-seeing-the-save-and-build-dropdown.md)
 * [Check Status Page](troubleshooting/check-status-page.md)
 * [Can I Remove Grounds 1 and 2 From Agreement?](troubleshooting/can-i-remove-grounds-1-and-2-from-agreement.md)
 * [Email Didn't Arrive](troubleshooting/email-didnt-arrive.md)
